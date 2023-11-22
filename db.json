@@ -1,0 +1,74 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John",
+      "email": "john@gmail.com",
+      "phone": "1234567",
+      "gender": "Male"
+    },
+    {
+      "id": 2,
+      "name": "Emily",
+      "email": "emily@gmail.com",
+      "phone": "8910111",
+      "gender": "Female"
+    },
+    {
+      "id": 3,
+      "name": "Gabriel",
+      "email": "gabriel@gmail.com",
+      "phone": "1213142",
+      "gender": "Male"
+    },
+    {
+      "id": 4,
+      "name": "Chris",
+      "email": "chris@gmail.com",
+      "phone": "1516173",
+      "gender": "Male"
+    },
+    {
+      "id": 5,
+      "name": "Jolly",
+      "email": "jolly@gmail.com",
+      "phone": "1819204",
+      "gender": "Female"
+    },
+    {
+      "name": "Test",
+      "email": "test@gmail.com",
+      "phone": "123456",
+      "gender": "female",
+      "id": 6
+    },
+    {
+      "name": "Demo",
+      "email": "demo@gmail.com",
+      "phone": "987654",
+      "gender": "male",
+      "id": 7
+    },
+    {
+      "name": "bhumi",
+      "email": "bhumi@gmail.com",
+      "phone": "9876543210",
+      "gender": "female",
+      "id": 9
+    },
+    {
+      "name": "new entry",
+      "email": "new_entry@gmail.com",
+      "phone": "1212121212",
+      "gender": "female",
+      "id": 10
+    },
+    {
+      "name": "user",
+      "email": "user@gmail.com",
+      "phone": "1234567890",
+      "gender": "male",
+      "id": 11
+    }
+  ]
+}
